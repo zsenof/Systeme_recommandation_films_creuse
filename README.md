@@ -3,6 +3,8 @@
 <p align="justify">
 Un cinéma de la Creuse souhaite dynamiser sa fréquentation en proposant un système de recommandation de films personnalisé. </p>
 
+lien site web : https://recommandation-films-creuse.streamlit.app/ 
+
 ## **Contexte** 📊  
 
 Le cinéma, confronté à une baisse de fréquentation, souhaite offrir à ses clients une expérience en ligne enrichie en intégrant un moteur de recommandation de films. L’objectif est de proposer des suggestions pertinentes aux utilisateurs, malgré l’absence initiale de données sur leurs préférences individuelles (situation de “cold start”).

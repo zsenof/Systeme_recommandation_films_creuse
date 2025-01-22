@@ -3,7 +3,7 @@
 <p align="justify">
 Un cinéma de la Creuse souhaite dynamiser sa fréquentation en proposant un système de recommandation de films personnalisé. </p>
 
-lien site web : https://recommandation-films-creuse.streamlit.app/ 
+lien site web : [site web recommandations films](https://systemerecommandationfilmscreuse-8rrt3whmiukcgigvdhwm5f.streamlit.app)
 
 ## **Contexte** 📊  
 
